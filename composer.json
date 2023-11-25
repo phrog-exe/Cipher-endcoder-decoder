@@ -1,0 +1,6 @@
+{
+    "require": {
+        "php-http/curl-client": "^2.2",
+        "curl/curl": "^2.3"
+    }
+}
